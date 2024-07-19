@@ -8,7 +8,7 @@ const cors = require('cors');
 
 // cors policy
 const corsOptions = {
-    origin : "http://localhost:5173",
+    origin : "https://myntra-clone-client.vercel.app",
     method: "GET",
     credentials: true,
 }
